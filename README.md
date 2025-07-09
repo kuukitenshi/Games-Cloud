@@ -7,6 +7,8 @@
 - Rodrigo Correia - 112270
 ----
 
+This project deploys a scalable cloud-based service to run parameterized workloads for three games: Capture the Flag, Fifteen Puzzle, and Game of Life. It uses AWS EC2 (cost-effective, slower startup) and AWS Lambda (faster, higher cost) to balance performance and cost.
+
 ### Subprojects
 
 This project contains some sub-projects:
